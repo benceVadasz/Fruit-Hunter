@@ -11,8 +11,25 @@
 defined( 'ABSPATH' ) || exit;
 
 get_header();
-$container = get_theme_mod( 'understrap_container_type' );
+?>
 
+<div class="home-banner">
+
+</div>
+</div>
+    <div class="content-wrapper">
+        <div class="new-collection">
+            <div class="rug"></div>
+        </div>
+        <div class="design-yours">
+            <div class="face-rug"></div>
+        </div>
+    </div>
+<div class="test">
+
+</div>
+
+<?php
 
 
 get_footer();
