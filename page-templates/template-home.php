@@ -25,8 +25,9 @@ get_header();
             <div class="face-rug"></div>
         </div>
     </div>
-<div class="test">
-
+<div class="newsletter-wrapper">
+    <div class="newsletter">
+    </div>
 </div>
 
 <?php
